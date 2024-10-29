@@ -8,7 +8,7 @@ El proyecto será ejecutado con la extensión de Visual Code Live Server
 ## Tecnologías Usadas
 - HTML
 - CSS
-## Visualización para dispositivos moviles.
+## Visualización para dispositivos moviles
 
 <img width="385" alt="4" src="https://github.com/user-attachments/assets/891ab57a-aac1-4d53-95fa-c2cbb1290890">
 <img width="384" alt="3" src="https://github.com/user-attachments/assets/b10187b7-cda3-40f0-b4bc-0d3e9913bf33">
